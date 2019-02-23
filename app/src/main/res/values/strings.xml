@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SearchView</string>
+
+    <string-array name="drawable_array">
+        <item>@mipmap/default_img1</item>
+        <item>@mipmap/default_img2</item>
+        <item>@mipmap/default_img3</item>
+        <item>@mipmap/default_img4</item>
+        <item>@mipmap/default_img5</item>
+        <item>@mipmap/default_img6</item>
+        <item>@mipmap/default_img7</item>
+        <item>@mipmap/default_img8</item>
+        <item>@mipmap/default_img9</item>
+        <item>@mipmap/default_img10</item>
+        <item>@mipmap/default_img11</item>
+        <item>@mipmap/default_img12</item>
+        <item>@mipmap/default_img13</item>
+        <item>@mipmap/default_img14</item>
+        <item>@mipmap/default_img15</item>
+        <item>@mipmap/default_img16</item>
+        <item>@mipmap/default_img17</item>
+        <item>@mipmap/default_img18</item>
+        <item>@mipmap/default_img19</item>
+        <item>@mipmap/default_img20</item>
+        <item>@mipmap/default_img21</item>
+    </string-array>
+</resources>

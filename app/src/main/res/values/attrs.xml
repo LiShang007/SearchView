@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SearchView">
+        <attr name="scTextSize" format="dimension|reference" />
+        <attr name="scTextColor" format="color|reference" />
+        <attr name="scText" format="string|reference" />
+        <attr name="scHint" format="string|reference" />
+        <attr name="scHintColor" format="color|reference" />
+        <attr name="scDividerColor" format="color|reference" />
+        <attr name="scShowDividers" format="boolean" />
+        <attr name="scSearchIcon" format="reference" />
+        <attr name="scSearchIconShow" format="boolean" />
+        <attr name="scSearchMinWidth" format="dimension|reference" />
+    </declare-styleable>
+
+</resources>
